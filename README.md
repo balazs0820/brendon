@@ -1,1 +1,2 @@
-# brendon
+color red
+color white
